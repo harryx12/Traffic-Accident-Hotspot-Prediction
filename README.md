@@ -315,11 +315,6 @@ Potential enhancements:
 
 ---
 
-## Author
-
-Developed as a machine learning and geospatial analytics project for traffic accident hotspot prediction.
-
----
 
 ## License
 
