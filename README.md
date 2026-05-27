@@ -1,6 +1,6 @@
 # Traffic Accident Hotspot Prediction
 
-A machine learning project for predicting traffic accident hotspots using historical accident data, feature engineering, geospatial analysis, and explainable AI techniques developed in June 2023.
+A machine learning project for predicting traffic accident hotspots using historical accident data, feature engineering, geospatial analysis, developed in June 2023.
 
 ---
 
